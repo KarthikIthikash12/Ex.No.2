@@ -181,7 +181,7 @@ Final Ranking for Undergraduate Use:
 
 4. Meta (technical and detailed)
 
-5. Cohere (balanced but less uniqu
+5. Cohere (balanced but less unique).
 
 
 # Result : The Prompt for the above problem statement executed successfully.
